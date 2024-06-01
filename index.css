@@ -69,12 +69,6 @@ body {
     rgb(0 0 255 / 50%)
   ), url("images/kibinai-mirror.png");
 
-/* Global values */
-    background-image: inherit;
-    background-image: initial;
-    background-image: revert;
-    background-image: revert-layer;
-    background-image: unset;
 }
 a, a:visited { /* порядок правил для ссылок имеет значение */
 	color: #e6618c;
